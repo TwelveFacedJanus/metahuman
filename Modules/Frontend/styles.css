@@ -2,5 +2,15 @@
 
 
 .UploadBtn {
-    margin-top: 1000px, 
+    margin-top: 60px;
+}
+
+.sign_in_button {
+    margin-left: 1250px;
+    
+}
+.reg_form {
+    margin-left: 10px;
+    padding-left: 10px;
+    margin-top: 10px
 }
