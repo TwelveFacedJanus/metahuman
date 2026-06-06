@@ -1,0 +1,13 @@
+.reg_form {
+    padding-top: 10px;
+}
+
+body.light-theme {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+body.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+}
