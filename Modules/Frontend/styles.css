@@ -21,6 +21,15 @@ body.dark-theme .main_logo {
     margin-left: 50px;
 }
 
+.small_logo {
+    max-width: 50px;
+}
+
+.brand-text {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
 #uploadBtn {
     margin-left: 50px;
 }
