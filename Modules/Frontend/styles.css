@@ -11,3 +11,16 @@ body.dark-theme {
     background-color: #121212;
     color: #ffffff;
 }
+
+body.dark-theme .main_logo {
+    content: url('../../Common/Images/logo-dark.svg');
+}
+
+.main_logo {
+    max-width: 500px;
+    margin-left: 50px;
+}
+
+#uploadBtn {
+    margin-left: 50px;
+}
